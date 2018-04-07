@@ -1,0 +1,19 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<mapping class="com.cyan.entity.Department" />
+		<mapping class="com.cyan.entity.Category" />
+		<mapping class="com.cyan.entity.Employee" />
+		<mapping class="com.cyan.entity.Customer" />
+		<mapping class="com.cyan.entity.Orders" />
+		<mapping class="com.cyan.entity.Orderdetail" />
+		<mapping class="com.cyan.entity.Product" />
+		<mapping class="com.cyan.entity.Review" />
+		<mapping class="com.cyan.entity.Picture" />
+		<mapping class="com.cyan.entity.Cart" />
+		<mapping class="com.cyan.entity.Cartitem" />
+		<mapping class="com.cyan.entity.Creditcard" />
+		<mapping class="com.cyan.entity.Payment" />
+	</session-factory>
+</hibernate-configuration>
