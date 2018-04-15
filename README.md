@@ -1,4 +1,4 @@
-This is the Restful version of the backstage management system for employees which can manage customer information,order status,products,departments,categories and send promotion emails to eligible customers.<br>
+This is the RESTful version of the backstage management system for employees which can manage customer information,order status,products,departments,categories and send promotion emails to eligible customers.<br>
 It is affiliated to the Cyan Website which is the e-commerce shopping system for customer to shop from.<br>
 This version provides Restful apis and uses json format to connect with frontend frameworks like Angular4. There is a Angular4 version of Cyan frontend project matching this backend which you can find in my repositories.<br>
 <br>
